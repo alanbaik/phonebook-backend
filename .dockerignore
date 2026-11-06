@@ -1,0 +1,106 @@
+node_modules
+
+# flyctl launch added from .ex/.gitignore
+# Logs
+.ex/**/logs
+.ex/**/*.log
+.ex/**/npm-debug.log*
+.ex/**/yarn-debug.log*
+.ex/**/yarn-error.log*
+.ex/**/pnpm-debug.log*
+.ex/**/lerna-debug.log*
+
+.ex/**/node_modules
+.ex/**/dist
+.ex/**/dist-ssr
+.ex/**/*.local
+
+# Editor directories and files
+.ex/**/.vscode/*
+!.ex/**/.vscode/extensions.json
+.ex/**/.idea
+.ex/**/.DS_Store
+.ex/**/*.suo
+.ex/**/*.ntvs*
+.ex/**/*.njsproj
+.ex/**/*.sln
+.ex/**/*.sw?
+
+# flyctl launch added from countryData/.gitignore
+# Logs
+countryData/**/logs
+countryData/**/*.log
+countryData/**/npm-debug.log*
+countryData/**/yarn-debug.log*
+countryData/**/yarn-error.log*
+countryData/**/pnpm-debug.log*
+countryData/**/lerna-debug.log*
+
+countryData/**/node_modules
+countryData/**/dist
+countryData/**/dist-ssr
+countryData/**/*.local
+
+# Editor directories and files
+countryData/**/.vscode/*
+!countryData/**/.vscode/extensions.json
+countryData/**/.idea
+countryData/**/.DS_Store
+countryData/**/*.suo
+countryData/**/*.ntvs*
+countryData/**/*.njsproj
+countryData/**/*.sln
+countryData/**/*.sw?
+
+# flyctl launch added from courseInfo/.gitignore
+# Logs
+courseInfo/**/logs
+courseInfo/**/*.log
+courseInfo/**/npm-debug.log*
+courseInfo/**/yarn-debug.log*
+courseInfo/**/yarn-error.log*
+courseInfo/**/pnpm-debug.log*
+courseInfo/**/lerna-debug.log*
+
+courseInfo/**/node_modules
+courseInfo/**/dist
+courseInfo/**/dist-ssr
+courseInfo/**/*.local
+
+# Editor directories and files
+courseInfo/**/.vscode/*
+!courseInfo/**/.vscode/extensions.json
+courseInfo/**/.idea
+courseInfo/**/.DS_Store
+courseInfo/**/*.suo
+courseInfo/**/*.ntvs*
+courseInfo/**/*.njsproj
+courseInfo/**/*.sln
+courseInfo/**/*.sw?
+
+# flyctl launch added from phonebook/.gitignore
+# Logs
+phonebook/**/logs
+phonebook/**/*.log
+phonebook/**/npm-debug.log*
+phonebook/**/yarn-debug.log*
+phonebook/**/yarn-error.log*
+phonebook/**/pnpm-debug.log*
+phonebook/**/lerna-debug.log*
+
+phonebook/**/node_modules
+phonebook/**/dist
+phonebook/**/dist-ssr
+phonebook/**/*.local
+
+# Editor directories and files
+phonebook/**/.vscode/*
+!phonebook/**/.vscode/extensions.json
+phonebook/**/.idea
+phonebook/**/.DS_Store
+phonebook/**/*.suo
+phonebook/**/*.ntvs*
+phonebook/**/*.njsproj
+phonebook/**/*.sln
+phonebook/**/*.sw?
+fly.toml
